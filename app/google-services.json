@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "802921621056",
+    "firebase_url": "https://greenup-dd813.firebaseio.com",
+    "project_id": "greenup-dd813",
+    "storage_bucket": "greenup-dd813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802921621056:android:bdd5bd2b0fe6eb33c1a1a5",
+        "android_client_info": {
+          "package_name": "com.fabricethilaw.textrecoginitionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802921621056-hjq1o6nah4per1kut12908qf12in6mq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxoiN9JSsAP-nX4J8osNP-lHqVZDNc1yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802921621056-hjq1o6nah4per1kut12908qf12in6mq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802921621056:android:6e5a25fe32043c83c1a1a5",
+        "android_client_info": {
+          "package_name": "comfabricethilaw.textrecoginitionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802921621056-hjq1o6nah4per1kut12908qf12in6mq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxoiN9JSsAP-nX4J8osNP-lHqVZDNc1yQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802921621056-hjq1o6nah4per1kut12908qf12in6mq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
